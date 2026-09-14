@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://superjames33.github.io/made-forever-site/sitemap.xml
